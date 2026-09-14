@@ -1,9 +1,3 @@
-<style>
-.page-header .project-name {
-  display: none;
-}
-</style>
-
 # Extended Wigner's Friend Scenarios with Agent-Like Observers on Quantum Computers
 
 Joshua Laux and A/Prof. Eric G. Cavalcanti  
