@@ -1,3 +1,9 @@
+<style>
+.page-header .project-name {
+  display: none;
+}
+</style>
+
 # Extended Wigner's Friend Scenarios with Agent-Like Observers on Quantum Computers
 
 Joshua Laux and A/Prof. Eric G. Cavalcanti  
@@ -14,9 +20,14 @@ Supervised by Prof. Renato Renner
 
 ## Research paper
 
-The manuscript is being prepared for arXiv.  
-The link will appear here when the preprint is available.
+[Read the preprint on arXiv](https://arxiv.org/abs/2609.12527)
 
 ## Code
 
 [View the thesis repository on GitHub](https://github.com/lauxj/agent-like-observers-ewfs)
+
+## Contact
+## Contact
+lauxj@ethz.ch
+[LinkedIn](https://www.linkedin.com/in/joshua-laux-37a549274)
+
