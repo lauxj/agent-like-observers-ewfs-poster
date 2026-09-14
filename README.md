@@ -21,7 +21,7 @@ Supervised by Prof. Renato Renner
 [View the thesis repository on GitHub](https://github.com/lauxj/agent-like-observers-ewfs)
 
 ## Contact
-## Contact
 lauxj@ethz.ch
+
 [LinkedIn](https://www.linkedin.com/in/joshua-laux-37a549274)
 
